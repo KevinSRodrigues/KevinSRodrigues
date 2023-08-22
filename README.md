@@ -19,19 +19,5 @@ Sinta-se à vontade para explorar meus projetos, ler meus pensamentos e comparti
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KevinSRodrigues&layout=compact&bg_color=ffffff&border_color=000000&title_color=1b1b1b&text_color=1b1b1b" alt="Top Langs" width="51.5%">
 </div>
 
-
-# Minhas contribuições
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <a href="https://github.com/KevinSRodrigues/dio-lab-open-source">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinSRodrigues&repo=compressao-envio-email&bg_color=ffffff&border_color=000000&show_icons=true&icon_color=1b1b1b&title_color=1b1b1b&text_color=1b1b1b" alt="Repo Card" width="48%">
-  </a>
-
-  <a href="https://github.com/KevinSRodrigues/compressao-envio-email/tree/master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinSRodrigues&repo=dio-lab-open-source&bg_color=ffffff&border_color=000000&show_icons=true&icon_color=1b1b1b&title_color=1b1b1b&text_color=1b1b1b" alt="Repo Card" width="48%">
-  </a>
-</div>
-
 # Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/kevin_sr0/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/KevinSRodrigues) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://www.discord.com/in/kevinrodrigues/)
-
-#### Vai ser uma honra poder aprender com você e ensinar o que eu puder.
