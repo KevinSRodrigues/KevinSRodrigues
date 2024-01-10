@@ -1,5 +1,5 @@
 # 📃 Quem sou eu
-E aí, pessoal! 👋 Sou um jovem de 19 anos apaixonado por tecnologia e estudante de Sistemas de Informação na MULTIVIX, localizada na Serra, Espírito Santo.
+E aí, pessoal! 👋 Sou um jovem de 19 anos apaixonado por tecnologia e estudante de Sistemas de Informação na UVV, Espírito Santo.
 
 Minha jornada na área de tecnologia me levou a explorar o empolgante campo da Inteligência Artificial (IA). A possibilidade de criar e desenvolver modelos inteligentes que podem revolucionar a maneira como interagimos com o mundo é o que me mantém empolgado a cada dia.
 
